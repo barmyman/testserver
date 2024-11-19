@@ -1,0 +1,4 @@
+{
+  "example": ["https://example.com/page1", "https://example.com/page2"],
+  "test": ["https://test.com/resource1", "https://test.com/resource2"]
+}
